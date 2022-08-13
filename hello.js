@@ -7,3 +7,9 @@ console.log(1)
 Comment should not be posted over git
 
 */
+/*
+
+
+This line must be stashed
+
+*/
